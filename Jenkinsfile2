@@ -10,8 +10,8 @@ pipeline {
 
     environment {
         SCANNER_HOME = tool 'sonar-scanner'
-        DOCKER_IMAGE = 'kastrov/bms:latest'
-        EKS_CLUSTER_NAME = 'kastro-eks'
+        DOCKER_IMAGE = 'hashabc/bms:latest'
+        EKS_CLUSTER_NAME = 'hash-eks'
         AWS_REGION = 'us-east-1'
     }
 
@@ -127,7 +127,7 @@ pipeline {
                 body: "Project: ${env.JOB_NAME}<br/>" +
                       "Build Number: ${env.BUILD_NUMBER}<br/>" +
                       "URL: ${env.BUILD_URL}<br/>",
-                to: 'kastrokiran@gmail.com',
+                to: 'harsht1326@gmail.com',
                 attachmentsPattern: 'trivyfs.txt'
         }
     }
