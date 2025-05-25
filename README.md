@@ -58,7 +58,7 @@ npm start
 
 # 🐳 Docker Deployment
 # Build the image
-docker build -t kastrov/bms:latest .
+docker build -t hash/bms:latest .
 
 # Run container
 docker run -d -p 3500:3500 hash/bms:latest
