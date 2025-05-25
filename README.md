@@ -1,3 +1,4 @@
+
 # 🎬 Book-My-Show Clone – CI/CD DevOps Project
 
 A full-scale DevOps project that simulates the **deployment of a BookMyShow clone** using Docker, Jenkins, Kubernetes (EKS), and AWS services — integrated with security scans and real-time monitoring.
@@ -25,6 +26,8 @@ To gain hands-on experience with real-world DevOps workflows — from code analy
 ## 🏗️ Architecture
 
 📌 [View Architecture Diagram](https://app.eraser.io/workspace/1c4GoEhL04FHeGJzi90b?elements=C2jhFLppgg4qS_OSYaJjXA)
+- ![image](https://github.com/user-attachments/assets/4e8c145f-c3a8-4483-aa3d-0bba6e4d46e7)
+
 
 ---
 
@@ -48,14 +51,18 @@ To gain hands-on experience with real-world DevOps workflows — from code analy
 - Trivy filesystem scan
 - Docker image build and push to DockerHub
 - Deployment on EC2 using Docker
+- ![Screenshot (354)](https://github.com/user-attachments/assets/d9736e99-8030-4d40-bfb3-451e90361c9e)
 
 ### Part II: Kubernetes + Monitoring
+
 - Kubernetes manifests (`deployment.yml`, `service.yml`)
 - EKS deployment via Jenkins pipeline
 - Jenkins user permission setup
 - Monitoring with:
   - Prometheus (target scraping from Jenkins & Node Exporter)
   - Grafana dashboards (Node Exporter + Jenkins performance)
+  - ![image](https://github.com/user-attachments/assets/5eaf930a-f1a1-4fb6-a5dd-cbac3ddf05be)
+
 
 ---
 
@@ -77,6 +84,8 @@ To gain hands-on experience with real-world DevOps workflows — from code analy
 - Ubuntu 24.04 (for CI server)
 - Ubuntu 22.04 (for monitoring server)
 - Open necessary ports in AWS Security Groups (22, 80, 443, 8080, 3000, 6443, 9000, 9090, 9100)
+- ![image](https://github.com/user-attachments/assets/e1be9500-3c42-4bbc-9978-5d1e52e4b68a)
+
 
 ---
 
@@ -84,11 +93,10 @@ To gain hands-on experience with real-world DevOps workflows — from code analy
 
 - **Grafana Dashboards Added:**
   - Node Exporter Full: [Grafana #1860](https://grafana.com/grafana/dashboards/1860)
-  - Jenkins Health Overview: [Grafana #9964](https://grafana.com/grafana/dashboards/9964)
-  - ![alt text](file:///C:/Users/HP/OneDrive/Pictures/Screenshots/Screenshot%20(348).png)
   - ![Screenshot (348)](https://github.com/user-attachments/assets/a3bd8e8d-f706-4561-81a5-2f3642c9fd9b)
-![Screenshot (349)](https://github.com/user-attachments/assets/018b0ed1-067d-4c13-a798-da61a79151fb)
-
+    
+  - Jenkins Health Overview: [Grafana #9964](https://grafana.com/grafana/dashboards/9964)
+  - ![Screenshot (349)](https://github.com/user-attachments/assets/018b0ed1-067d-4c13-a798-da61a79151fb)
 
 ---
 
@@ -96,6 +104,8 @@ To gain hands-on experience with real-world DevOps workflows — from code analy
 
 - Configured via Gmail SMTP using Jenkins credentials  
 - Notifications triggered on **build success/failure** with logs attached
+- ![image](https://github.com/user-attachments/assets/70a79eae-7a2a-4a9b-9b5b-08fcb9645c26)
+
 
 ---
 
