@@ -86,6 +86,9 @@ To gain hands-on experience with real-world DevOps workflows — from code analy
   - Node Exporter Full: [Grafana #1860](https://grafana.com/grafana/dashboards/1860)
   - Jenkins Health Overview: [Grafana #9964](https://grafana.com/grafana/dashboards/9964)
   - ![alt text](file:///C:/Users/HP/OneDrive/Pictures/Screenshots/Screenshot%20(348).png)
+  - ![Screenshot (348)](https://github.com/user-attachments/assets/a3bd8e8d-f706-4561-81a5-2f3642c9fd9b)
+![Screenshot (349)](https://github.com/user-attachments/assets/018b0ed1-067d-4c13-a798-da61a79151fb)
+
 
 ---
 
