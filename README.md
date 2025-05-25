@@ -85,6 +85,7 @@ To gain hands-on experience with real-world DevOps workflows — from code analy
 - **Grafana Dashboards Added:**
   - Node Exporter Full: [Grafana #1860](https://grafana.com/grafana/dashboards/1860)
   - Jenkins Health Overview: [Grafana #9964](https://grafana.com/grafana/dashboards/9964)
+  - ![alt text](file:///C:/Users/HP/OneDrive/Pictures/Screenshots/Screenshot%20(348).png)
 
 ---
 
@@ -109,17 +110,11 @@ Thanks to open-source contributors and AWS Free Tier for enabling this hands-on 
 
 ## 📎 Links
 
-- 🔗 [GitHub Repo]([https://github.com/K/Book-My-Show](https://github.com/harsht1608/Book-My-Show/)  
-- 📖 [Blog Writeup on Medium]([<insert-your-link-here>](https://medium.com/@harsht1326))  
-
----
-
-## 📢 Stay Tuned for Part 2!
-
-Monitoring, auto-scaling, and alerting modules coming soon…
+- 🔗 [GitHub Repo]([https://github.com/K/Book-My-Show](https://github.com/harsht1608/Book-My-Show/)
+- 📖 [Blog Writeup on Medium](https://medium.com/@harsht1326)
 
 ---
 
 > **Author:** Harsh Nitin  
 > 📧 harsht1326@gmail.com 
-> 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+> 🌐 [LinkedIn](https://www.linkedin.com/in/harshtembhurnikar/)
