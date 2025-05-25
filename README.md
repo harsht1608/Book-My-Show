@@ -123,7 +123,7 @@ Thanks to open-source contributors and AWS Free Tier for enabling this hands-on 
 
 ## 📎 Links
 
-- 🔗 [GitHub Repo]([https://github.com/K/Book-My-Show](https://github.com/harsht1608/Book-My-Show/)
+- 🔗 [GitHub Repo](https://github.com/harsht1608/Book-My-Show/)
 - 📖 [Blog Writeup on Medium](https://medium.com/@harsht1326)
 
 ---
